@@ -38,3 +38,14 @@ updates/7/x86_64                                                                
 repolist: 11,008
 
 ```
+*****************************************************************************************************
+
+## Listar usuarios creados dentro del archivo ```/etc/passwd```
+
+* output
+
+```
+[root@ip-10-1-2-237 centos]# cat /etc/passwd | egrep "saturn|haley"
+saturn:x:2800:1002::/home/saturn:/bin/bash
+haley:x:2900:1001::/home/haley:/bin/bash
+```
