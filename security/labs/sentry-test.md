@@ -1,6 +1,6 @@
 # sentry-test.md
 
-## Relizar ejercicio donde:
+## Realizar ejercicio dónde:
 
 * Configurar Sentry para hacer administrador a un usuario / grupo
 * Verificar privilegios del usuario
