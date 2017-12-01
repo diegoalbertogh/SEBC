@@ -21,7 +21,7 @@ total 32
 ## Comando usado: 
 ###  ```/usr/share/cmf/schema/scm_prepare_database.sh -h ip-10-1-2-237.ec2.internal mysql scm scm Scm_2017!```
 
-
+* Output:
 ```
 [root@ip-10-1-2-185 centos]# /usr/share/cmf/schema/scm_prepare_database.sh -h ip-10-1-2-237.ec2.internal mysql scm scm Scm_2017!
 JAVA_HOME=/usr/java/jdk1.7.0_67-cloudera
